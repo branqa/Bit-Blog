@@ -1,49 +1,22 @@
 
-This is the structure of our application:
+# Bit-Blog
 
--node_modules
--public
-  *favicon.ico
-  *index.html
-  *manifest.json
--src
-  -app
-   -pages
-    -aboutPage
-      *AboutPage.js
-    -authorInfoPage
-      *AuthorInfoPage.js
-      *AuthorInfoPost.js
-    -authorsPage
-      *AuthorsList.js
-      *AuthorsPage.js
-    -homePage
-      *HomePage.js
-      *PostList.js
-    -newPostPage
-      *NewPostPage.js
-    -postPage
-      *BlogLinks.js
-      *BlogPost.js
-      *PostPage.js
-  -partials
-    *Header.js
-    *Footer.js
-  *App.js
-  -entities
-    *Author.js
-    *Post.js
-  -photos
-    *color-pencil.jpeg
-  -services
-    *addNewPost.js
-    *getAllPostFromAuthor.js
-    *getAllPosts.js
-    *getAuthorsData.js
-    *getOneAuthorData.js
-    *getOnePost.js
-  -shared
-  *App.test.js
-  *index.css
-  *index.js
-  *registerServiceWorker.js
+Simple application where user can read or create new posts, check post's author profile and see related posts.
+
+### Stack:
+
+Languages: `HTML5, CSS3, JavaScript (ES6)`
+
+Framework: `React, Bootstrap`
+
+Package Manager: `Npm`
+
+### Screenshots
+
+![alt text](https://github.com/branqa/Bit-Blog/blob/master/images/home_printscreen.png "home page")
+------
+![alt text](https://github.com/branqa/Bit-Blog/blob/master/images/authors_printscreen.png "authors page")
+------
+![alt text](https://github.com/branqa/Bit-Blog/blob/master/images/about_printscreen.png "about page")
+------
+![alt text](https://github.com/branqa/Bit-Blog/blob/master/images/new_post_printscreen.png "new post page")
