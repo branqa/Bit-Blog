@@ -19,6 +19,8 @@ Package Manager: `Npm`
 ------
 ![alt text](https://github.com/branqa/Bit-Blog/blob/master/images/authors_printscreen.png "authors page")
 ------
+![alt text](https://github.com/branqa/Bit-Blog/blob/master/images/author_printscreen.png "author page")
+------
 ![alt text](https://github.com/branqa/Bit-Blog/blob/master/images/about_printscreen.png "about page")
 ------
 ![alt text](https://github.com/branqa/Bit-Blog/blob/master/images/new_post_printscreen.png "new post page")
