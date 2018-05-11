@@ -3,6 +3,8 @@
 
 Simple application where user can read or create new posts, check post's author profile and see related posts.
 
+Demo: [Bit-Blog](https://branqa.github.io/Bit-Blog/#/)
+
 ### Stack:
 
 Languages: `HTML5, CSS3, JavaScript (ES6)`
