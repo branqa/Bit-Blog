@@ -7,11 +7,7 @@ Demo: [Bit-Blog](https://branqa.github.io/Bit-Blog/#/)
 
 ### Stack:
 
-Languages: `HTML5, CSS3, JavaScript (ES6)`
-
-Framework: `React, Bootstrap`
-
-Package Manager: `Npm`
+Technologies: `HTML5, CSS3, JavaScript (ES6), React, Bootstrap, Npm`
 
 ### Screenshots
 
